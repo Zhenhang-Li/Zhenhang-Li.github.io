@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from . My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third-year Master's student at the Institute of Information Engineering, Chinese Academy of Sciences, co-advised by Prof. Yu Zhou and Prof. Weiming Mu. My research interest includes multimodal AI, generative models, and their applications to scientific challenges.
 
