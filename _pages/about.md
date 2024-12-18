@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Master's student at the Institute of Information Engineering, Chinese Academy of Sciences, co-advised by Prof. Yu Zhou and Prof. Weimin Mu. My research interest includes multimodal AI, generative models, and their applications to scientific challenges.
+I'm a third-year Master's student at the Institute of Information Engineering, Chinese Academy of Sciences, co-advised by (Prof. Yu Zhou)[https://intimelab.github.io/] and Prof. Weimin Mu. My research interest includes multimodal AI, generative models, and their applications to scientific challenges.
 
 
 # News
