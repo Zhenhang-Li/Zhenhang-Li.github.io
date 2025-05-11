@@ -11,6 +11,7 @@ I'm a third-year Master's student at the Institute of Information Engineering, C
 
 
 # News
+[04/2025] &ensp;One paper was accepted by IJCAI 2025.
 
 [09/2024] &ensp;One paper was accepted by NeurIPS 2024.
 
