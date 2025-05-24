@@ -10,13 +10,22 @@ redirect_from:
 I'm a third-year Master's student at the Institute of Information Engineering, Chinese Academy of Sciences, co-advised by [Prof. Yu Zhou](https://intimelab.github.io/) and Prof. Weimin Mu. My research interest includes multimodal AI, generative models, and their applications to scientific challenges.
 
 
-# News
-[04/2025] &ensp;One paper was accepted by IJCAI 2025.
+# 💻 Experience
 
-[09/2024] &ensp;One paper was accepted by NeurIPS 2024.
+### **ByteDance** | Research Intern, Video Generation
+*Dec 2024 - Jun 2025 (Expected)*
+* **Key Projects:**
+    * **Video Virtual Try-On:**
+    * **E-commerce Video Generation:** 
 
-[07/2024] &ensp;One paper was accepted by ECAI 2024.
 
-[08/2022] &ensp;Start to pursue my master's degree at University of Chinese Academy of Sciences.
 
-[06/2022] &ensp;I obtained my B.E. degree at Hangzhou Dianzi University.
+# 🚀 News
+* **[May 2025]** &ensp;Successfully obtained my M.E. degree from University of Chinese Academy of Sciences.
+* **[Apr 2025]** &ensp;🎉 Our paper was accepted by IJCAI 2025!
+* **[Sep 2024]** &ensp;🎉 Our paper was accepted by NeurIPS 2024!
+* **[Jul 2024]** &ensp;🎉 Our paper was accepted by ECAI 2024!
+* **[Aug 2022]** &ensp;Began my Master's degree journey at the University of Chinese Academy of Sciences.
+* **[Jun 2022]** &ensp;Successfully obtained my B.E. degree from Hangzhou Dianzi University.
+
+
