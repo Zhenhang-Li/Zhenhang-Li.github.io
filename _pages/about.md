@@ -15,8 +15,8 @@ I'm a third-year Master's student at the Institute of Information Engineering, C
 ### **ByteDance** | Research Intern, Video Generation
 *Dec 2024 - Jun 2025 (Expected)*
 * **Key Projects:**
-    * **Video Virtual Try-On:**
-    * **E-commerce Video Generation:** 
+    * **Video Virtual Try-On**
+    * **E-commerce Video Generation** 
 
 
 
