@@ -21,6 +21,8 @@ I'm a third-year Master's student at the Institute of Information Engineering, C
 
 
 # 🚀 News
+* **[Jul 2025]** &ensp;🎉 Our paper was accepted by ECAI 2025!
+* **[Jul 2025]** &ensp;🎉 Our paper was accepted by ACM MM 2025!
 * **[May 2025]** &ensp;Successfully obtained my M.E. degree from University of Chinese Academy of Sciences.
 * **[Apr 2025]** &ensp;🎉 Our paper was accepted by IJCAI 2025!
 * **[Sep 2024]** &ensp;🎉 Our paper was accepted by NeurIPS 2024!
